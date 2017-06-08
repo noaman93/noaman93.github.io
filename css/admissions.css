@@ -1,0 +1,38 @@
+.admission-details {
+    background-color: #FFC83D;
+}
+
+.panel-default >  .play-group {
+    background-color: #F1574F;
+    color: white;
+    border-color: #FFC83D;
+}
+
+.panel-default .play-group-body {
+    background-color: #FF857F;
+    color: whitesmoke;
+}
+
+.panel-default >  .nursery-section {
+    background-color: #73AE30;
+    color: white;
+    border-color: #FFC83D;
+}
+
+.panel-default .nursery-section-body {
+    background-color: #84C03F;
+    color: whitesmoke;
+}
+
+.panel-default >  .primary-section {
+    background-color: #644CAE;
+    color: white;
+    border-color: #FFC83D;
+}
+
+.panel-default .primary-section-body {
+    background-color: #9B86DC;
+    color: whitesmoke;
+}
+
+
